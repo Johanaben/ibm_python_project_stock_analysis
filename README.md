@@ -1,5 +1,5 @@
-Project Python Project for IBM Data Analyst Professional Certification Course 
-Skills learned: ##Python, Pandas, Webscraping
+Project Python Project for <i>IBM Data Analyst Professional Certification Course</i> <br>
+Skills learned: <b>Python, Pandas, Webscraping</b>
 
-Completed originally on June 7 2025
+Completed originally on <b>June 7 2025</b><br>
 Moved from an old account
